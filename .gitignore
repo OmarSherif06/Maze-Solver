@@ -1,0 +1,71 @@
+# Build directories
+build/
+bin/
+out/
+Debug/
+Release/
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dSYM/
+
+# VSCode settings
+.vscode/
+.settings/
+
+# Compiled object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM
+*.pdb
+*.idb
+*.ipdb
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+*.sublime-workspace
+*.sublime-project
+
+# Log files
+*.log
+
+# User-specific files
+*.user
+*.sublime-settings
+
+# Others
+*.swp
+*.swo
+*.class
+*.jar
+*.jar.sig
+*.class
+*.log
+*.tix
+*.gch
+*.h.gch
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
